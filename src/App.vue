@@ -1,30 +1,53 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>
+  <div class="app">
+    <AppHeader />
+    <router-view :class="{ 'main': !userLoggedIn }" />
+    <AppFooter />
+  </div>
 </template>
 
-<style lang="scss">
-#app {
+<script>
+import AppHeader from './components/AppHeader.vue'
+import AppFooter from './components/AppFooter.vue'
+
+export default {
+  components: {
+    AppHeader,
+    AppFooter
+  },
+  computed: {
+    userLoggedIn() {
+      return this.$store.getters.user.loggedIn
+    }
+  }
+}
+</script>
+
+<style>
+body {
   font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  flex: 1;
 }
 
 nav {
-  padding: 30px;
+  padding: 20px;
+}
 
-  a {
-    font-weight: bold;
-    color: #2c3e50;
+nav a {
+  font-weight: bold;
+}
 
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+nav a.router-link-exact-active {
+  color: white;
 }
 </style>

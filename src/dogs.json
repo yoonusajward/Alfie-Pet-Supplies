@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Buddy",
+        "breed": "Golden Retriever",
+        "age": 2,
+        "gender": "Male",
+        "imageName": "pet1",
+        "description": "Buddy is a friendly and energetic Golden Retriever. He loves playing fetch in the park and cuddling up on the couch. He is great with kids and other pets."
+    },
+    {
+        "id": 2,
+        "name": "Luna",
+        "breed": "Labrador Retriever",
+        "age": 3,
+        "gender": "Female",
+        "imageName": "pet2",
+        "description": "Luna is a playful and loyal Labrador Retriever. She enjoys long walks and is always up for an adventure. She is gentle and loving, making her a great family pet."
+    },
+    {
+        "id": 3,
+        "name": "Max",
+        "breed": "German Shepherd",
+        "age": 4,
+        "gender": "Male",
+        "imageName": "pet3",
+        "description": "Max is a smart and protective German Shepherd. He is highly trainable and loves to learn new tricks. Max is also a great guard dog, always alert and watchful."
+    },
+    {
+        "id": 4,
+        "name": "Bailey",
+        "breed": "Beagle",
+        "age": 5,
+        "gender": "Female",
+        "imageName": "pet4",
+        "description": "Bailey is a curious and friendly Beagle. She has a keen sense of smell and loves to explore her surroundings. Bailey is great with children and enjoys being part of a family."
+    },
+    {
+        "id": 5,
+        "name": "Charlie",
+        "breed": "Poodle",
+        "age": 2,
+        "gender": "Male",
+        "imageName": "pet5",
+        "description": "Charlie is a playful and intelligent Poodle. He is easy to train and loves to show off his tricks. Charlie enjoys being pampered and is always stylish with his grooming."
+    },
+    {
+        "id": 6,
+        "name": "Daisy",
+        "breed": "Dachshund",
+        "age": 6,
+        "gender": "Female",
+        "imageName": "pet6",
+        "description": "Daisy is a loving and energetic Dachshund. She is a loyal companion and loves to be by your side. Daisy enjoys digging and chasing squirrels in the yard."
+    },
+    {
+        "id": 7,
+        "name": "Rocky",
+        "breed": "Boxer",
+        "age": 3,
+        "gender": "Male",
+        "imageName": "pet7",
+        "description": "Rocky is a strong and friendly Boxer. He is full of energy and loves to play. Rocky is great with kids and is always up for a game of fetch."
+    },
+    {
+        "id": 8,
+        "name": "Molly",
+        "breed": "Shih Tzu",
+        "age": 4,
+        "gender": "Female",
+        "imageName": "pet8",
+        "description": "Molly is a sweet and affectionate Shih Tzu. She loves to be cuddled and pampered. Molly enjoys going for walks and meeting new people."
+    },
+    {
+        "id": 9,
+        "name": "Bentley",
+        "breed": "Bulldog",
+        "age": 2,
+        "gender": "Male",
+        "imageName": "pet9",
+        "description": "Bentley is a friendly and loyal Bulldog. He has a calm demeanor and loves to relax. Bentley is great with children and makes a wonderful family pet."
+    },
+    {
+        "id": 10,
+        "name": "Whiskers",
+        "breed": "Border Collie",
+        "age": 2,
+        "gender": "Male",
+        "imageName": "pet10",
+        "description": "Whiskers is a playful and curious dog. He loves to explore his surroundings and chase after toys. Whiskers is friendly and gets along well with other pets."
+    },
+    {
+        "id": 11,
+        "name": "Luna",
+        "breed": "Cocker Spaniel",
+        "age": 3,
+        "gender": "Female",
+        "imageName": "pet11",
+        "description": "Luna is a gentle and affectionate dog. She enjoys cuddling up on the couch and going for walks in the park. Luna is great with children and loves to play."
+    },
+    {
+        "id": 12,
+        "name": "Simba",
+        "breed": "Rottweiler",
+        "age": 4,
+        "gender": "Male",
+        "imageName": "pet12",
+        "description": "Simba is a playful and adventurous dog. He loves to run and explore new places. Simba is friendly and enjoys meeting new people and animals."
+    },
+    {
+        "id": 13,
+        "name": "Bella",
+        "breed": "Cavalier King Charles Spaniel",
+        "age": 3,
+        "gender": "Female",
+        "imageName": "pet13",
+        "description": "Bella is a sweet and loving dog. She enjoys being around people and getting lots of attention. Bella is gentle and gets along well with other pets."
+    },
+    {
+        "id": 14,
+        "name": "Milo",
+        "breed": "Great Dane",
+        "age": 2,
+        "gender": "Male",
+        "imageName": "pet14",
+        "description": "Milo is a loyal and obedient dog. He loves to play fetch and go for long walks. Milo is great with children and makes a wonderful family pet."
+    },
+    {
+        "id": 15,
+        "name": "Max",
+        "breed": "Siberian Husky",
+        "age": 3,
+        "gender": "Male",
+        "imageName": "pet15",
+        "description": "Max is a friendly and energetic dog. He loves to play and run around outside. Max is great with kids and enjoys being part of a family."
+    }
+]

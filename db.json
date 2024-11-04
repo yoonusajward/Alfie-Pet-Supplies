@@ -1,0 +1,79 @@
+{
+    "todos": [
+    {
+      "id": 1,
+      "title": "Regular Vet Visits",
+      "content": "Ensure your pet has regular check-ups with the vet to monitor their health and catch any potential issues early."
+    },
+    {
+      "id": 2,
+      "title": "Balanced Diet",
+      "content": "Provide your pet with a balanced diet tailored to their specific needs. Consult your vet for recommendations."
+    },
+    {
+      "id": 3,
+      "title": "Exercise",
+      "content": "Regular exercise is essential for your pet's physical and mental well-being. Make sure they get plenty of playtime."
+    },
+    {
+      "id": 4,
+      "title": "Hydration",
+      "content": "Make sure your pet always has access to fresh, clean water. Proper hydration is crucial for their health."
+    },
+    {
+      "id": 5,
+      "title": "Dental Care",
+      "content": "Regularly brush your pet's teeth and provide dental treats to help maintain their oral health."
+    },
+    {
+      "id": 6,
+      "title": "Vaccinations",
+      "content": "Keep your pet's vaccinations up to date to protect them from common diseases and infections."
+    },
+    {
+      "id": 7,
+      "title": "Parasite Prevention",
+      "content": "Use preventive treatments to protect your pet from fleas, ticks, and worms. Regularly check them for signs of infestation."
+    },
+    {
+      "id": 8,
+      "title": "Grooming",
+      "content": "Regular grooming helps keep your pet's coat clean and reduces shedding. It also provides an opportunity to check for skin issues."
+    },
+    {
+      "id": 9,
+      "title": "Mental Stimulation",
+      "content": "Provide toys, puzzles, and activities to keep your pet mentally stimulated and prevent boredom."
+    },
+    {
+      "id": 10,
+      "title": "Safe Environment",
+      "content": "Ensure your pet's living environment is safe and free from hazards. Keep harmful substances out of reach."
+    },
+    {
+      "id": 11,
+      "title": "Weight Management",
+      "content": "Monitor your pet's weight and adjust their diet and exercise routine as needed to maintain a healthy weight."
+    },
+    {
+      "id": 12,
+      "title": "Socialization",
+      "content": "Socialize your pet with other animals and people to promote good behavior and reduce anxiety."
+    },
+    {
+      "id": 13,
+      "title": "Comfortable Sleeping Area",
+      "content": "Provide a comfortable and quiet sleeping area for your pet to ensure they get adequate rest."
+    },
+    {
+      "id": 14,
+      "title": "Spaying/Neutering",
+      "content": "Consider spaying or neutering your pet to prevent unwanted litters and reduce the risk of certain health issues."
+    },
+    {
+      "id": 15,
+      "title": "Training",
+      "content": "Consistent training helps your pet learn good behavior and strengthens the bond between you and your pet."
+    }
+  ]
+  }
